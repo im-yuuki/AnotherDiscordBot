@@ -8,5 +8,5 @@ emoji==2.12.1
 google-generativeai==0.7.2
 openai==1.35.13
 requests==2.32.3
-aiohttp==3.9.5
+aiohttp==3.11.8
 mafic==2.10.0
