@@ -3,7 +3,7 @@ disnake[voice]
 python-dotenv==1.0.1
 colorama==0.4.6
 marisa-trie==1.2.0 
-aiomysql==0.2.0
+aiomysql==0.3.0
 emoji==2.12.1
 google-generativeai==0.7.2
 openai==1.35.13
